@@ -10,11 +10,11 @@ Landing page de **Dulce Tentación**, el emprendimiento de budines artesanales d
 
 ## 🍰 Sabores
 
-| Sabor | Etiqueta | Descripción |
-|---|---|---|
-| 🍋 **Limón con Glaseado** | Best seller | Cítrico, húmedo y brillante, con glaseado de limón. |
-| 🍫 **Chips de Chocolate** | Clásico de la casa | Vainilla con chips de chocolate semiamargo. |
-| 🍪 **Oreo** | Nuevo | Bien chocolatoso, con hilos de chocolate blanco por arriba. |
+| Sabor | Precio | Etiqueta | Descripción |
+|---|---|---|---|
+| 🍋 **Limón con Glaseado** | $4.000 | Best seller | Cítrico, húmedo y brillante, con glaseado de limón. |
+| 🍫 **Chips de Chocolate** | $4.000 | Clásico de la casa | Vainilla con chips de chocolate semiamargo. |
+| 🍪 **Oreo** | $5.000 | Nuevo | Bien chocolatoso, con hilos de chocolate blanco por arriba. |
 
 ## 📄 Secciones de la página
 
@@ -48,6 +48,8 @@ La página es **un solo archivo**: las fotos están incrustadas dentro del `inde
 ## 📝 Historial de versiones
 
 ### v2 — Octubre 2026
+- 💲 **Precios cargados**: Limón y Chips $4.000, Oreo $5.000.
+- 📅 La presentación ahora dice "Desde 2026".
 - ➕ Nuevo sabor **Oreo**, con foto propia y etiqueta "Nuevo".
 - 🧱 Los sabores se muestran en **3 columnas** en computadora y uno debajo del otro en celular, con los botones alineados.
 - 💬 Cada botón "Pedir este sabor" manda por WhatsApp el **sabor elegido**.
@@ -61,8 +63,9 @@ La página es **un solo archivo**: las fotos están incrustadas dentro del `inde
 
 ## ✅ Pendientes
 
-- [ ] Cargar los **precios** (hoy figuran como "$—") o sacar ese recuadro.
-- [ ] Confirmar los textos "+300 budines entregados", "Desde 2023" y "Tomamos pedidos todos los días".
+- [x] Cargar los precios.
+- [x] Corregir el año a "Desde 2026".
+- [ ] Confirmar los textos "+300 budines entregados" y "Tomamos pedidos todos los días".
 - [ ] Reemplazar la foto principal de arriba por una de mejor calidad.
 - [ ] Achicar las imágenes para que la página cargue más rápido en celulares.
 - [ ] Sección de **opiniones de clientes** con estrellas (a definir).
